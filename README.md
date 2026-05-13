@@ -74,5 +74,3 @@ python app.py
 
 ---
 
-## 👩‍💻 Author
-Sreelakshmi
