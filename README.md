@@ -12,6 +12,8 @@ This project is a deep learning-based Plant Disease Detection System developed u
 - Real-time disease prediction
 - User-friendly web interface for image upload and prediction
 
+## Dataset 
+- The model was trained using a dataset sourced from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data).
 ---
 
 ## 🛠️ Technologies Used
@@ -40,7 +42,9 @@ This project is a deep learning-based Plant Disease Detection System developed u
 ---
 
 ## 📷 Project Screenshots
-(Add screenshots here later)
+1. Home page![Screenshot 2025-03-01 190107](https://github.com/user-attachments/assets/0592dee4-6ed0-4ab1-ad53-46fc23789339)
+
+2. Result page![Screenshot 2025-03-03 133935](https://github.com/user-attachments/assets/fa367dd8-4e7c-4feb-ae85-aae18ba273ae)
 
 ---
 
