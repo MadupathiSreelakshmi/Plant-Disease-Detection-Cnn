@@ -48,7 +48,7 @@ This project is a deep learning-based Plant Disease Detection System developed u
 
 ### Clone Repository
 ```bash
-git clone https://github.com/MadupathiSreelakshmi/plant-disease-detection-cnn.git
+git clone https://github.com/MadupathiSreelakshmi/Plant-Disease-Detection-Cnn.git
 ```
 
 ### Install Dependencies
